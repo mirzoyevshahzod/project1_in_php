@@ -1,0 +1,12 @@
+{
+    "name": "envy/project1",
+    "description": "project1 composer",
+    "type": "project1",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
